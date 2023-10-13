@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86eed7c449371490586d9adb53cd2460, type: 3}
+  m_Name: TutorialInfo 2
+  m_EditorClassIdentifier: 
+  id: 2
+  uid: tut_03
+  event_name: Gear
+  event_target: Gear
+  speech: Tap to align <br> Left and Right
+  arrowpos: 0
+  next: -1
+  shape: 0
+  hideSpotLight: 0

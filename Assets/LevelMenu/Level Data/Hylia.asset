@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0e5d4f116bda4a8cb225144caaf1fbd, type: 3}
+  m_Name: Hylia
+  m_EditorClassIdentifier: 
+  levelName: Hylia
+  icon: {fileID: 3196595491485269755, guid: 784157eaf90b14cee966a529664717d4, type: 3}
+  Nodes: {fileID: 8562939004345894243, guid: 0b4e7386501314f79bcb333555eea64a, type: 3}
+  animModel: {fileID: 2542398109932340768, guid: 2f49e3a3fb35645dba0c4fd303d646ad,
+    type: 3}
+  animPos: {x: 0, y: 10, z: 0}
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}

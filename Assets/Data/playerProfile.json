@@ -1,0 +1,113 @@
+{
+    "playerID": 0,
+    "playerLevels": [
+        {
+            "levelID": 0,
+            "chapterID": 0,
+            "levelName": "Hylia_1",
+            "isUnlocked": true,
+            "isCompleted": false,
+            "minimumTime": 20,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 1,
+            "chapterID": 0,
+            "levelName": "Hylia_2",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 10,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 2,
+            "chapterID": 0,
+            "levelName": "Hylia_3",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 3,
+            "chapterID": 0,
+            "levelName": "Hylia_4",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 4,
+            "chapterID": 1,
+            "levelName": "Niflhiem_1",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 5,
+            "chapterID": 1,
+            "levelName": "Niflhiem_2",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 6,
+            "chapterID": 1,
+            "levelName": "Niflhiem_3",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 7,
+            "chapterID": 1,
+            "levelName": "Niflhiem_4",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 8,
+            "chapterID": 2,
+            "levelName": "Hel_1",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 9,
+            "chapterID": 2,
+            "levelName": "Hel_2",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 10,
+            "chapterID": 2,
+            "levelName": "Hel_3",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        },
+        {
+            "levelID": 11,
+            "chapterID": 2,
+            "levelName": "Hel_4",
+            "isUnlocked": false,
+            "isCompleted": false,
+            "minimumTime": 50,
+            "numberOfOrbs": 0
+        }
+    ]
+}

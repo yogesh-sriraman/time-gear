@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_Szark Water
+  m_Shader: {fileID: 4800000, guid: 6ad79ac7613284e6f8c0a8b097250bbd, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2efaa2ddf7595af4987d403f6a48a8bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNoise:
+        m_Texture: {fileID: 2800000, guid: c3b7f054094e1554599a20dc67386efb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FalloffDepth: 0.418
+    - _FalloffStrength: 0.223
+    - _FlowSpeed: 1
+    - _FoamAmount: 0.299
+    - _FoamRampLerp: 0.199
+    - _HeightBrightness: 0.25
+    - _HeightSoftness: 1
+    - _HeightSpread: 0.095
+    - _LowPoly: 0
+    - _NormalScale: 1
+    - _NormalStrength: 1
+    - _RefractionStrength: 0.3
+    - _Smoothness: 0.269
+    - _TexDistortion: 0.25
+    - _WaveAmp: 0.77
+    - _WaveLerp: 1
+    - _WaveSpeed: 0.97
+    - _WorldSpaceNrm: 0.226
+    m_Colors:
+    - _DeepColor: {r: 0.0047169924, g: 0.7170063, b: 1, a: 1}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ShallowColor: {r: 0.16420433, g: 0.79496354, b: 0.8490566, a: 1}
+    - _WaveDir: {r: 0, g: 0, b: 0.1, a: 1}

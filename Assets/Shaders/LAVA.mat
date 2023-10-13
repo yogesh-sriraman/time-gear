@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LAVA
+  m_Shader: {fileID: 4800000, guid: 4daf21f150e514195a9f6e1bbdac018d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortTex:
+        m_Texture: {fileID: 2800000, guid: ca93729c13a3a4116989df65191a9163, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 630f104ae9c3745a8907ea5df0e84043, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amount: 0.05
+    - _Cutoff: 0.58
+    - _Distortion: 0.19
+    - _Edge: 11.91
+    - _EdgeBlur: 1
+    - _Height: 0.025
+    - _Offset: 10
+    - _Scale: 0.038
+    - _ScaleDist: 0.008
+    - _Speed: 0.225
+    - _SpeedDistortX: 0
+    - _SpeedDistortY: 0
+    - _SpeedMainX: 0.3
+    - _SpeedMainY: 0
+    - _Strength: 0.8
+    - _StrengthTop: 2
+    - _TopBlur: 0.59
+    - _VertexDistortion: 0.71
+    m_Colors:
+    - _Color: {r: 1, g: 0.21226418, b: 0.4096947, a: 0.48235294}
+    - _Color2: {r: 0.6132076, g: 0, b: 0.193092, a: 0.6392157}
+    - _Color3: {r: 0.6320754, g: 0.24157856, b: 0, a: 0.4117647}
+    - _EdgeC: {r: 0.6792453, g: 0.08060577, b: 0.022427924, a: 0.7019608}

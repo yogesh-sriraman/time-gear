@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_WaterShader
+  m_Shader: {fileID: 4800000, guid: 66c98125581d35948989f8fd56895aeb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FoamTexture:
+        m_Texture: {fileID: 2800000, guid: 5dafcaa2dc651f545bc549d8ec50eec5, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _WaveDistortionNoise:
+        m_Texture: {fileID: 2800000, guid: 8d1e858cc3ecc6745ae528dfe07df721, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Depth: 4.37
+    - _DepthMax: 0.61
+    - _DepthMin: 0.278
+    - _FoamMax: 0.61
+    - _FoamMin: 0.51
+    - _FoamPower: 8.3
+    - _Tesselation: 10
+    - _WaveCount: 10
+    - _WaveHeight: 0.073
+    - _WaveSpeed: 10
+    - _WaveSpread: 0
+    - _WaveWidth: 10
+    m_Colors:
+    - _ColorA: {r: 0.7088235, g: 0.6764706, b: 1, a: 1}
+    - _ColorB: {r: 0, g: 0.1766227, b: 0.5955882, a: 1}

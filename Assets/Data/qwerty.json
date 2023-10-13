@@ -1,0 +1,2364 @@
+{
+    "paths": [
+        {
+            "levelID": "Hylia_1",
+            "pathData": [
+                {
+                    "pathObjName": "PathTile",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (1)"
+                        },
+                        {
+                            "pathName": "PathTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (1)",
+                    "xPos": 0.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (4)"
+                        },
+                        {
+                            "pathName": "PathTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (2)",
+                    "xPos": 0.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile"
+                        },
+                        {
+                            "pathName": "PathTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (3)",
+                    "xPos": 0.0,
+                    "zPos": -8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (4)",
+                    "xPos": 0.0,
+                    "zPos": 8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (5)",
+                    "xPos": 0.0,
+                    "zPos": 12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "EndTile"
+                        },
+                        {
+                            "pathName": "PathTile (4)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (6)",
+                    "xPos": 0.0,
+                    "zPos": -12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (3)"
+                        },
+                        {
+                            "pathName": "MoonPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": 0.0,
+                    "zPos": 16.03,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "MoonPlatform",
+                    "xPos": 0.0,
+                    "zPos": -17.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hylia_2",
+            "pathData": [
+                {
+                    "pathObjName": "PathTile (1)",
+                    "xPos": 0.0,
+                    "zPos": 5.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        },
+                        {
+                            "pathName": "SunPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (3)",
+                    "xPos": 0.0,
+                    "zPos": -5.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform"
+                        },
+                        {
+                            "pathName": "CornerTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (4)",
+                    "xPos": -4.0,
+                    "zPos": -9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (1)"
+                        },
+                        {
+                            "pathName": "MoonPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (5)",
+                    "xPos": -3.98,
+                    "zPos": 9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (1)"
+                        },
+                        {
+                            "pathName": "PathTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile",
+                    "xPos": 0.0,
+                    "zPos": 9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "MoonPlatform",
+                    "xPos": -9.483826,
+                    "zPos": -9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (4)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (1)",
+                    "xPos": 0.0,
+                    "zPos": -9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (4)"
+                        },
+                        {
+                            "pathName": "PathTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -7.943565,
+                    "zPos": 9.49322,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hylia_3",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform",
+                    "xPos": -16.0,
+                    "zPos": -3.79,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "MoonPlatform",
+                    "xPos": -6.5,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (8)"
+                        },
+                        {
+                            "pathName": "PathTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile",
+                    "xPos": 0.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "Split_path_thin",
+                    "xPos": -4.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        },
+                        {
+                            "pathName": "PathTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (1)",
+                    "xPos": -8.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin"
+                        },
+                        {
+                            "pathName": "PathTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (2)",
+                    "xPos": -12.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (1)"
+                        },
+                        {
+                            "pathName": "CornerTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (1)",
+                    "xPos": -16.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile (5)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (5)",
+                    "xPos": -16.0,
+                    "zPos": 1.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (1)"
+                        },
+                        {
+                            "pathName": "SunPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (6)",
+                    "xPos": -16.0,
+                    "zPos": -9.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform"
+                        },
+                        {
+                            "pathName": "CornerTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (2)",
+                    "xPos": -16.0,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (7)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (7)",
+                    "xPos": -12.0,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "MoonPlatform"
+                        },
+                        {
+                            "pathName": "CornerTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (8)",
+                    "xPos": -1.04,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (3)"
+                        },
+                        {
+                            "pathName": "MoonPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (3)",
+                    "xPos": 2.96,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (8)"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (9)",
+                    "xPos": 2.96,
+                    "zPos": -9.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (4)"
+                        },
+                        {
+                            "pathName": "CornerTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (4)",
+                    "xPos": 2.96,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (10)"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (10)",
+                    "xPos": -1.04,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (4)"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -5.07,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (10)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hylia_4",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform",
+                    "xPos": -16.0,
+                    "zPos": -3.79,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "MoonPlatform",
+                    "xPos": -6.5,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (8)"
+                        },
+                        {
+                            "pathName": "PathTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile",
+                    "xPos": 0.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "Split_path_thin",
+                    "xPos": -1.04,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (4)"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile",
+                    "xPos": -4.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        },
+                        {
+                            "pathName": "PathTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (1)",
+                    "xPos": -8.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile"
+                        },
+                        {
+                            "pathName": "PathTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (2)",
+                    "xPos": -12.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (1)"
+                        },
+                        {
+                            "pathName": "CornerTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (1)",
+                    "xPos": -16.0,
+                    "zPos": 5.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile (5)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (5)",
+                    "xPos": -16.0,
+                    "zPos": 1.7,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (1)"
+                        },
+                        {
+                            "pathName": "SunPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (6)",
+                    "xPos": -16.0,
+                    "zPos": -9.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform"
+                        },
+                        {
+                            "pathName": "CornerTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (2)",
+                    "xPos": -16.0,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (7)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (7)",
+                    "xPos": -12.0,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "MoonPlatform"
+                        },
+                        {
+                            "pathName": "CornerTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (8)",
+                    "xPos": -1.04,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (3)"
+                        },
+                        {
+                            "pathName": "MoonPlatform"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (3)",
+                    "xPos": 2.96,
+                    "zPos": -13.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (8)"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (9)",
+                    "xPos": 2.96,
+                    "zPos": -9.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (4)"
+                        },
+                        {
+                            "pathName": "CornerTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (4)",
+                    "xPos": 2.96,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -5.07,
+                    "zPos": -5.25,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Niflhiem_1",
+            "pathData": [
+                {
+                    "pathObjName": "MoonPlatform",
+                    "xPos": 13.68,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -8.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile",
+                    "xPos": 8.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "MoonPlatform"
+                        },
+                        {
+                            "pathName": "PathTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (1)",
+                    "xPos": 8.0,
+                    "zPos": 9.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (2)",
+                    "xPos": 4.0,
+                    "zPos": 9.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (1)"
+                        },
+                        {
+                            "pathName": "PathTile (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (3)",
+                    "xPos": 4.0,
+                    "zPos": -10.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (4)"
+                        },
+                        {
+                            "pathName": "PathTile (4)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (4)",
+                    "xPos": 0.0,
+                    "zPos": -10.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (3)"
+                        },
+                        {
+                            "pathName": "PathTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (5)",
+                    "xPos": 0.0,
+                    "zPos": 9.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "PathTile (5)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (6)",
+                    "xPos": -4.0,
+                    "zPos": 9.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (7)",
+                    "xPos": -4.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "EndTile"
+                        },
+                        {
+                            "pathName": "PathTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile",
+                    "xPos": 8.0,
+                    "zPos": 5.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (1)"
+                        },
+                        {
+                            "pathName": "CornerTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (1)",
+                    "xPos": 4.0,
+                    "zPos": 5.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (2)",
+                    "xPos": 4.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (1)"
+                        },
+                        {
+                            "pathName": "PathTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (3)",
+                    "xPos": 4.0,
+                    "zPos": -2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (2)"
+                        },
+                        {
+                            "pathName": "PathTile (4)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (4)",
+                    "xPos": 4.0,
+                    "zPos": -6.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (3)"
+                        },
+                        {
+                            "pathName": "CornerTile (3)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (5)",
+                    "xPos": 0.0,
+                    "zPos": 5.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (6)",
+                    "xPos": 0.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (5)"
+                        },
+                        {
+                            "pathName": "PathTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (7)",
+                    "xPos": 0.0,
+                    "zPos": -2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (6)"
+                        },
+                        {
+                            "pathName": "PathTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (8)",
+                    "xPos": 0.0,
+                    "zPos": -6.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "PathTile (7)"
+                        },
+                        {
+                            "pathName": "CornerTile (4)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "PathTile (9)",
+                    "xPos": -4.0,
+                    "zPos": 5.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "CornerTile (7)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Niflhiem_2",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 2.98,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -6.52,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": -2.52,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform1"
+                        },
+                        {
+                            "pathName": "tile_02"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -33.48,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform2",
+                    "xPos": -15.95,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -21.46,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform2"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -10.52,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "SunPlatform2"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -29.46,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -25.46,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Niflhiem_3",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 5.2,
+                    "zPos": -0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform1"
+                        },
+                        {
+                            "pathName": "tile_02"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -4.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        },
+                        {
+                            "pathName": "CornerTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (6)",
+                    "xPos": -8.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -8.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "CornerTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -8.0,
+                    "zPos": 8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (7)"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (7)",
+                    "xPos": -8.0,
+                    "zPos": 12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -12.0,
+                    "zPos": 12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (7)"
+                        },
+                        {
+                            "pathName": "SunPlatform2"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform2",
+                    "xPos": -17.5,
+                    "zPos": 11.99,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -23.0,
+                    "zPos": 12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform2"
+                        },
+                        {
+                            "pathName": "CornerTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (8)",
+                    "xPos": -27.0,
+                    "zPos": 12.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        },
+                        {
+                            "pathName": "tile_07"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -27.0,
+                    "zPos": 8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (8)"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -27.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "CornerTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (9)",
+                    "xPos": -27.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "EndTile"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -31.2,
+                    "zPos": -0.279999971,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (9)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Niflhiem_4",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 3.5,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -6.0,
+                    "zPos": 6.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": -2.0,
+                    "zPos": 6.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform1"
+                        },
+                        {
+                            "pathName": "tile_02"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -34.0,
+                    "zPos": -6.03,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_10"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -10.0,
+                    "zPos": 6.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (6)",
+                    "xPos": -34.0,
+                    "zPos": 8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_08"
+                        },
+                        {
+                            "pathName": "tile_09"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -18.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -14.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -22.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "tile_07"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -30.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "CornerTile (6)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -26.0,
+                    "zPos": 8.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_10",
+                    "xPos": -34.0,
+                    "zPos": -2.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_09"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_09",
+                    "xPos": -34.0,
+                    "zPos": 2.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "tile_10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hel_1",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 2.24,
+                    "zPos": 0.3,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": 2.24,
+                    "zPos": 5.756,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -14.51,
+                    "zPos": 2.35,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_12"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_09",
+                    "xPos": -18.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_10"
+                        },
+                        {
+                            "pathName": "CornerTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -2.5,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -23.0,
+                    "zPos": 5.75,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (7)"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (6)",
+                    "xPos": 2.21,
+                    "zPos": 10.51,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -6.5,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -10.5,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -14.5,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -18.5,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "CornerTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (7)",
+                    "xPos": -23.0,
+                    "zPos": 10.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        },
+                        {
+                            "pathName": "tile_07"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -23.0,
+                    "zPos": 1.76999986,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "CornerTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (8)",
+                    "xPos": -23.0,
+                    "zPos": -3.00000024,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_09"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_10",
+                    "xPos": -14.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_11"
+                        },
+                        {
+                            "pathName": "tile_09"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_11",
+                    "xPos": -10.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (9)"
+                        },
+                        {
+                            "pathName": "tile_10"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (9)",
+                    "xPos": -6.0,
+                    "zPos": -2.97,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_11"
+                        },
+                        {
+                            "pathName": "CornerTile (10)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (10)",
+                    "xPos": -6.05,
+                    "zPos": 2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_12"
+                        },
+                        {
+                            "pathName": "CornerTile (9)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_12",
+                    "xPos": -10.5,
+                    "zPos": 2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (10)"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hel_2",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": -0.38,
+                    "zPos": -5.48,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": 0.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -4.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (6)"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -32.09,
+                    "zPos": -6.99,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_10"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform2",
+                    "xPos": -16.0,
+                    "zPos": -5.49,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_05"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_10",
+                    "xPos": -32.0,
+                    "zPos": -11.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "EndTile"
+                        },
+                        {
+                            "pathName": "CornerTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (6)",
+                    "xPos": 0.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -8.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -12.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "CornerTile (7)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (7)",
+                    "xPos": -16.0,
+                    "zPos": 4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -16.0,
+                    "zPos": 0.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (7)"
+                        },
+                        {
+                            "pathName": "SunPlatform2"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (8)",
+                    "xPos": -32.0,
+                    "zPos": -15.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_09"
+                        },
+                        {
+                            "pathName": "tile_10"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -20.0,
+                    "zPos": -15.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile (9)"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -24.0,
+                    "zPos": -15.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "tile_09"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_09",
+                    "xPos": -28.0,
+                    "zPos": -15.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_08"
+                        },
+                        {
+                            "pathName": "CornerTile (8)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile (9)",
+                    "xPos": -16.0,
+                    "zPos": -15.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -16.0,
+                    "zPos": -11.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform2"
+                        },
+                        {
+                            "pathName": "CornerTile (9)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hel_3",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": 2.0,
+                    "zPos": 0.54,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": 2.0,
+                    "zPos": 6.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_01"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -14.51,
+                    "zPos": 2.35,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_12"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -18.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "CornerTile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -23.0,
+                    "zPos": 5.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_02"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_01",
+                    "xPos": 2.0,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin (3)"
+                        },
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -6.5,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin (3)"
+                        },
+                        {
+                            "pathName": "Split_path_thin (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -14.5,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin (1)"
+                        },
+                        {
+                            "pathName": "Split_path_thin (2)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_02",
+                    "xPos": -23.0,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "Split_path_thin (2)"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -23.0,
+                    "zPos": 1.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "CornerTile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_03",
+                    "xPos": -23.0,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -14.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_08"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -10.5,
+                    "zPos": -3.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_04"
+                        },
+                        {
+                            "pathName": "tile_07"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_04",
+                    "xPos": -6.0,
+                    "zPos": -2.97,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_08"
+                        },
+                        {
+                            "pathName": "CornerTile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_05",
+                    "xPos": -6.0,
+                    "zPos": 2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_12"
+                        },
+                        {
+                            "pathName": "CornerTile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_12",
+                    "xPos": -10.5,
+                    "zPos": 2.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_05"
+                        },
+                        {
+                            "pathName": "EndTile"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "Split_path_thin (1)",
+                    "xPos": -10.5,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "Split_path_thin (2)",
+                    "xPos": -18.5,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "CornerTile_02"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "Split_path_thin (3)",
+                    "xPos": -2.5,
+                    "zPos": 10.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_01"
+                        },
+                        {
+                            "pathName": "tile_02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelID": "Hel_4",
+            "pathData": [
+                {
+                    "pathObjName": "SunPlatform1",
+                    "xPos": -9.5,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_09"
+                        },
+                        {
+                            "pathName": "tile_08"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_01",
+                    "xPos": 0.0,
+                    "zPos": 0.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_01"
+                        },
+                        {
+                            "pathName": "CornerTile_4"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "EndTile",
+                    "xPos": -30.91,
+                    "zPos": 0.78,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "SunPlatform1 (1)",
+                    "xPos": -9.5,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_03"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_01",
+                    "xPos": 0.0,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_02"
+                        },
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_02",
+                    "xPos": -4.0,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_01"
+                        },
+                        {
+                            "pathName": "SunPlatform1 (1)"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_09",
+                    "xPos": -4.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_4"
+                        },
+                        {
+                            "pathName": "SunPlatform1"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_4",
+                    "xPos": 0.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_09"
+                        },
+                        {
+                            "pathName": "tile_01"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_03",
+                    "xPos": -15.0,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform1 (1)"
+                        },
+                        {
+                            "pathName": "tile_04"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_08",
+                    "xPos": -15.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "SunPlatform1"
+                        },
+                        {
+                            "pathName": "tile_07"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_04",
+                    "xPos": -19.0,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_03"
+                        },
+                        {
+                            "pathName": "CornerTile_02"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_07",
+                    "xPos": -19.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_08"
+                        },
+                        {
+                            "pathName": "CornerTile_3"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_05",
+                    "xPos": -23.0,
+                    "zPos": 0.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "CornerTile_02"
+                        },
+                        {
+                            "pathName": "CornerTile_3"
+                        },
+                        {
+                            "pathName": "tile_06"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_02",
+                    "xPos": -23.0,
+                    "zPos": 5.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_04"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "CornerTile_3",
+                    "xPos": -23.0,
+                    "zPos": -4.0,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "tile_07"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                },
+                {
+                    "pathObjName": "tile_06",
+                    "xPos": -27.0,
+                    "zPos": 0.5,
+                    "adjacentPathNames": [
+                        {
+                            "pathName": "EndTile"
+                        },
+                        {
+                            "pathName": "tile_05"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

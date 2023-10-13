@@ -1,0 +1,28 @@
+{
+    "playerID": 0,
+    "numberOfStars": 0,
+    "gameChapters":
+    [
+        {
+            "chapterID": 0,
+            "chapterName": "Hylia",
+            "starToUnlock": 0,
+            "isUnlocked": true,
+            "chapterLevelID": "0/1/2/3"
+        },
+        {
+            "chapterID": 1,
+            "chapterName": "Niflhiem",
+            "starToUnlock": 10,
+            "isUnlocked": false,
+            "chapterLevelID": "4/5/6/7"
+        },
+        {
+            "chapterID": 2,
+            "chapterName": "Hel",
+            "starToUnlock": 20,
+            "isUnlocked": false,
+            "chapterLevelID": "8/9/10/11"
+        }
+    ]
+}

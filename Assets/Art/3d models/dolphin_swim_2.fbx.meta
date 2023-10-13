@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 6b6bb8135d3f245bbbbafecdbf7f9925
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -598779372131065167
+    second: ATTACK-delphinidae
+  - first:
+      74: 407323236828925971
+    second: BREATHE-delphinidae
+  - first:
+      74: -8655733020201012309
+    second: DEATH-delphinidae
+  - first:
+      74: 5357478588144830766
+    second: EAT-delphinidae
+  - first:
+      74: -1906691292144960791
+    second: FASTER-delphinidae
+  - first:
+      74: 1185482768593128641
+    second: HURT-delphinidae
+  - first:
+      74: -1025503137023231133
+    second: IDLE-delphinidae
+  - first:
+      74: -2219285918785538303
+    second: JUMP-delphinidae
+  - first:
+      74: -355821220278698933
+    second: JUMPSPLASH-delphinidae
+  - first:
+      74: 6832796160671945733
+    second: SWIM-delphinidae
+  - first:
+      74: -8161923729326017775
+    second: SWIM-002-delphinidae
+  - first:
+      74: -4311897867762006953
+    second: SWIM-003-delphinidae
+  - first:
+      74: -3520315748206364122
+    second: SWIM-004-delphinidae
+  - first:
+      74: -1103566106510753154
+    second: SWIMLEFT-delphinidae
+  - first:
+      74: 4123713545982253986
+    second: SWIMRIGHT-delphinidae
+  - first:
+      74: -6430658729471462156
+    second: TURNLEFT-delphinidae
+  - first:
+      74: 8238687596049550835
+    second: TURNRIGHT-delphinidae
+  - first:
+      74: -6093332102980992844
+    second: Armature-dolphin|JUMP-delphinidae
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: ROOT-rot
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
